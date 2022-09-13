@@ -2,7 +2,7 @@ UNI Clicker Clone
 ========================================
 
 <img src="Resources\UNIclicker_front.jpg"  width=50% height=50%>
-<img src="Resources\UNIclicker_back.png"  width=50% height=50%>
+<img src="Resources\UNIclicker_back.jpg"  width=50% height=50%>
 
 
 UNI Clicker is a compact development board designed as a complete solution. It contains a MCU Card socket, four mikroBUS sockets for Click boards connectivity and power management. 
